@@ -11,7 +11,7 @@ body {
     align-items: center;
     background-color: #fff;
     padding: 20px;
-    max-width: 10000%;
+    width: 100vw;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     position: relative; /* Para definir posição relativa e permitir posicionamento dos pseudo-elementos */
